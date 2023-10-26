@@ -2,9 +2,7 @@
 
 A multi-page website built using `HTML` and `CSS` skills which includes custom images, layout, and styling. Along with the webpage design considerations, I worked to appropriately structure the files, as well as use proper formatting & style. The project also focusses on using Flexbox and Grid systems to make the page responsive.
 
-Open and view the Project using the `.zip` file provided or at my [Github Repository](https://github.com/madhur-taneja/Personal-Blog-Website).
 
-The project is also hosted on [Github](https://madhur-taneja.github.io/Personal-Blog-Website).
 
 ## Table of Contents
 - [Getting Started](#getting-started)
@@ -13,13 +11,9 @@ The project is also hosted on [Github](https://madhur-taneja.github.io/Personal-
 - [Development](#development)
 - [Features](#features)
 - [Running the App](#running-the-app)
-- [References](#references)
 
-## Getting Started
 
-This project was built from scratch and is a part of Udacity's Refreshed Front-End Nanodegree program. 
 
-The project will be evaluated by a Udacity code reviewer according to the Personal Blog Website project [rubric](https://review.udacity.com/#!/rubrics/2667/view)
 
 ### Tools Required
 
@@ -75,8 +69,4 @@ For details now how everything has been implemented, refer the source code.
 * Open the project through the `.zip` file provided and extract the files. 
   > Open `index.html` in the browser of your choice.
 
-## References
 
-* Responsive navbar from [itnext](https://itnext.io/how-to-build-a-responsive-navbar-using-flexbox-and-javascript-eb0af24f19bf)
-* Images used from [Pixabay](https://pixabay.com/) 
-* Blog Content from [The Nomadic Matt](https://www.nomadicmatt.com/)
